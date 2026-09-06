@@ -1,0 +1,8 @@
+{
+  "name": "SentinelAI – AI Cyber Incident Investigator",
+  "description": "Production-ready cybersecurity incident investigation tool powered by Gemini and Firebase. Analyze logs, alerts, network traffic, and emails to extract threat severity, IoCs, attack storyline, and response runbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
